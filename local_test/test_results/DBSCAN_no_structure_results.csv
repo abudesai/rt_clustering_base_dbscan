@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+DBSCAN,no_structure,1.0,1.0,1.5642,0.3587,-0.1889,0.01

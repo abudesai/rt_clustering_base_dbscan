@@ -1,0 +1,12 @@
+[
+  {
+    "name": "eps",
+    "short_desc": "The maximum distance between two samples for one to be considered as in the neighborhood of the other",
+    "default": 0.5,
+    "type": "real",
+    "search_type": "uniform",
+    "range_low": 1e-6,
+    "range_high": 2.0,
+    "run_HPO": true
+  }
+]

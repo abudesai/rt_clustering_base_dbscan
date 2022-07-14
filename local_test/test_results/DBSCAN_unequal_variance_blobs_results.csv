@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+DBSCAN,unequal_variance_blobs,0.6768,0.7099,1.9005,6506.3214,0.5242,0.01

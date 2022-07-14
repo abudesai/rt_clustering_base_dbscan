@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+DBSCAN,noisy_moons,0.5,0.0,1.8496,0.2597,-0.1908,0.01

@@ -1,0 +1,7 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+DBSCAN,anisotropic,0.6674,0.7316,1.2916,1658.3537,0.392,0.01
+DBSCAN,equal_variance_blobs,0.334,0.0002,9.1933,0.7999,0.3341,0.01
+DBSCAN,noisy_moons,0.5,0.0,1.8496,0.2597,-0.1908,0.01
+DBSCAN,noisy_circles,0.5,0.0,0.73,1.7454,0.0728,0.01
+DBSCAN,unequal_variance_blobs,0.6768,0.7099,1.9005,6506.3214,0.5242,0.01
+DBSCAN,no_structure,1.0,1.0,1.5642,0.3587,-0.1889,0.01

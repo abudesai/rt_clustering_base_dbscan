@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+DBSCAN,noisy_circles,0.5,0.0,0.73,1.7454,0.0728,0.01

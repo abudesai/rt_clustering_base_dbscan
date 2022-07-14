@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+DBSCAN,anisotropic,0.6674,0.7316,1.2916,1658.3537,0.392,0.01
